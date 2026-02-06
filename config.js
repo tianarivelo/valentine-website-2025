@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Ma jolie jolie Riana VESTALYS",
+    valentineName: "Riana VESTALYS (aka Ma Jolie Jolie femme la plus jolie)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
